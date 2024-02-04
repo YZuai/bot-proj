@@ -86,7 +86,7 @@ client.on("messageCreate", (message) => {
     const prefix = ")"
     if (!message.content.startsWith(prefix))
         return
-    
+
     const args = message.content.slice(prefix.length).split(" ")
     switch (args[0]) {
         case "rf":
