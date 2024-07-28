@@ -1,2 +1,3 @@
 # bot-proj
- 方糖機器人 / Sugar Cube Discord Bot
+方糖機器人 / Sugar Cube Discord Bot
+A Discord bot designed for a group to make fun of each other, aka. humiliating them.
